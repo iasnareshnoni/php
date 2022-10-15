@@ -1,0 +1,17 @@
+.services h1{
+    font-weight: 800;
+    font-size: 50px;
+}
+.services h1 + p{
+    margin-top: 21px;
+    margin-bottom: 44px;
+}
+.services .parent{
+    position: relative;
+}
+.services .parent .submain{
+    position: relative;
+    top: -25px;
+    left: 15px;
+    width: 96%;
+}
